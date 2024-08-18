@@ -17,9 +17,9 @@
 #pragma once
 
 //
-// Notepad++ version: begin
+// Notpad++ version: begin
 //
-#define NOTEPAD_PLUS_VERSION L"NotepadGoGo v8.7.0"
+#define NOTEPAD_PLUS_VERSION L"Notpad++ v8.7.0"
 
 // should be X.Y : ie. if VERSION_DIGITALVALUE == 4, 7, 1, 0 , then X = 4, Y = 71
 // ex : #define VERSION_VALUE L"5.63\0"
@@ -28,7 +28,7 @@
 #define VERSION_PRODUCT_VALUE L"8.7.0\0"
 #define VERSION_DIGITALVALUE 8, 7, 0, 0
 
-// Notepad++ version: end
+// Notpad++ version: end
 
 
 #ifndef IDC_STATIC
@@ -42,8 +42,8 @@
 //#define IDI_JESUISCHARLIE        102
 //#define IDI_GILETJAUNE           102
 //#define IDI_SAMESEXMARRIAGE      102
-#define IDI_TAIWAN_OFCHINA         105
-#define IDI_TAIWAN_OFCHINA_DM      106
+#define IDI_ONE_CHINA              105
+#define IDI_ONE_CHINA_DM           106
 #define IDR_RT_MANIFEST            103
 #define IDI_ICONABSENT             104
 

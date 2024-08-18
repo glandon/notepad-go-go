@@ -42,13 +42,13 @@ BEGIN
     BEGIN
         BLOCK "040904b0"
         BEGIN
-            VALUE    "CompanyName",        "NotepadGoGo by China\0"
-            VALUE    "FileDescription",    "NotepadGoGo\0"
+            VALUE    "CompanyName",        "Notpad++ by China\0"
+            VALUE    "FileDescription",    "Notpad++\0"
             VALUE    "FileVersion",        VERSION_PRODUCT_VALUE
-            VALUE    "InternalName",       "notepad++.exe\0"
+            VALUE    "InternalName",       "notpad++.exe\0"
             VALUE    "LegalCopyright",     "Copyleft 2023-2024 by China\0"
-            VALUE    "OriginalFilename",   "notepad++.exe\0"
-            VALUE    "ProductName",        "Notepad++\0"
+            VALUE    "OriginalFilename",   "notpad++.exe\0"
+            VALUE    "ProductName",        "Notpad++\0"
             VALUE    "ProductVersion",     VERSION_PRODUCT_VALUE
         END
     END
@@ -61,9 +61,8 @@ IDI_CHAMELEON                   ICON      "icons/standard/about/chameleon.ico"
 IDI_CHAMELEON_DM                ICON      "icons/dark/about/chameleon.ico"
 //IDI_JESUISCHARLIE             ICON      "icons/Je_suis_Charlie.ico"
 //IDI_GILETJAUNE                ICON      "icons/giletJaune.ico"
-//IDI_SAMESEXMARRIAGE           ICON      "icons/same-sexMarriageTaiwan.ico"
-IDI_TAIWAN_OFCHINA              ICON      "icons/standard/about/taiwanofchina.ico"
-IDI_TAIWAN_OFCHINA_DM           ICON      "icons/dark/about/taiwanofchina.ico"
+IDI_ONE_CHINA                   ICON      "icons/standard/about/onechina.ico"
+IDI_ONE_CHINA_DM                ICON      "icons/dark/about/onechina.ico"
 IDI_ICONABSENT                  ICON      "icons/iconAbsent.ico"
 
 //
@@ -1052,7 +1051,7 @@ BEGIN
         MENUITEM SEPARATOR
         MENUITEM "Define your language...", IDM_LANG_USER_DLG
         MENUITEM "Open User Defined Language folder...",      IDM_LANG_OPENUDLDIR
-        MENUITEM "Notepad++ User Defined Languages Collection", IDM_LANG_UDLCOLLECTION_PROJECT_SITE
+        MENUITEM "Notpad++ User Defined Languages Collection", IDM_LANG_UDLCOLLECTION_PROJECT_SITE
         MENUITEM "User-Defined",            IDM_LANG_USER
     END
 
@@ -1210,7 +1209,7 @@ BEGIN
     BEGIN
         MENUITEM "Define your language...",   IDM_LANG_USER_DLG
         MENUITEM "Open User Defined Language folder...",        IDM_LANG_OPENUDLDIR
-        MENUITEM "Notepad++ User Defined Languages Collection", IDM_LANG_UDLCOLLECTION_PROJECT_SITE
+        MENUITEM "Notpad++ User Defined Languages Collection", IDM_LANG_UDLCOLLECTION_PROJECT_SITE
     END
     MENUITEM "User-Defined",              IDM_LANG_USER
     END
@@ -1299,16 +1298,16 @@ BEGIN
     BEGIN
         MENUITEM "Command Line Arguments...",      IDM_CMDLINEARGUMENTS
         MENUITEM SEPARATOR
-        MENUITEM "NotepadGoGo Home",                 IDM_HOMESWEETHOME
-        MENUITEM "NotepadGoGo Project Page",         IDM_PROJECTPAGE
-        MENUITEM "NotepadGoGo Online User Manual",   IDM_ONLINEDOCUMENT
-        MENUITEM "NotepadGoGo Community (Forum)",    IDM_FORUM
+        MENUITEM "Notpad++ Home",                 IDM_HOMESWEETHOME
+        MENUITEM "Notpad++ Project Page",         IDM_PROJECTPAGE
+        MENUITEM "Notpad++ Online User Manual",   IDM_ONLINEDOCUMENT
+        MENUITEM "Notpad++ Community (Forum)",    IDM_FORUM
         MENUITEM SEPARATOR
-        MENUITEM "Update NotepadGoGo",               IDM_UPDATE_NPP
-        MENUITEM "Set Updater Proxy...",             IDM_CONFUPDATERPROXY
+        MENUITEM "Update Notpad++",               IDM_UPDATE_NPP
+        MENUITEM "Set Updater Proxy...",          IDM_CONFUPDATERPROXY
         MENUITEM SEPARATOR
-        MENUITEM "Debug Info...",                    IDM_DEBUGINFO
-        MENUITEM "About NotepadGoGo",                IDM_ABOUT
+        MENUITEM "Debug Info...",                 IDM_DEBUGINFO
+        MENUITEM "About Notpad++",                IDM_ABOUT
     END
 
     MENUITEM "＋",               IDM_FILE_NEW, HELP
