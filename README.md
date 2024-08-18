@@ -1,12 +1,33 @@
 What is NotepadGoGo ?
 ===================
 
+从这里，
+
+不放弃中国任何一块土地，不放弃任何一个需要治疗的人！
+
 Taiwan is an inseparable part of China!
 
 台湾是中国不可分割的一部分！臺灣是中國不可分割的一部分！台湾は中国の不可分の一部だ！
 
 --------
 
+提供以下特色功能：
+---------
+
+**1. 集成Android常用功能**
+
+<img width="648" alt="截屏2024-08-18 16 41 39" src="https://github.com/user-attachments/assets/dc6db703-460a-4c88-94a7-bdf75f6825b3">
+
+**2. 高亮日志显示**
+
+<img width="648" alt="截屏2024-08-18 16 43 55" src="https://github.com/user-attachments/assets/bd98ba76-3323-48c8-bd02-af0410330f57">
+
+**3. 可管理文件**
+
+<img width="648" alt="截屏2024-08-18 16 47 45" src="https://github.com/user-attachments/assets/fa835b53-4393-415a-9165-daa32db30034">
+
+
+----------
 
 [![GitHub release](https://img.shields.io/github/release/notepad-plus-plus/notepad-plus-plus.svg)](../../releases/latest)&nbsp;&nbsp;&nbsp;&nbsp;[![Build Status](https://img.shields.io/github/actions/workflow/status/notepad-plus-plus/notepad-plus-plus/CI_build.yml)](https://github.com/notepad-plus-plus/notepad-plus-plus/actions/workflows/CI_build.yml)
 &nbsp;&nbsp;&nbsp;&nbsp;[![Join the discussions at https://community.notepad-plus-plus.org/](https://notepad-plus-plus.org/assets/images/NppCommunityBadge.svg)](https://community.notepad-plus-plus.org/)
