@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|ARM64">
@@ -386,7 +386,7 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\src\icons\dark\about\chameleon.ico" />
-    <Image Include="..\src\icons\dark\about\logo_taiwan-grey.ico" />
+    <Image Include="..\src\icons\dark\about\taiwanofchina.ico" />
     <Image Include="..\src\icons\dark\panels\tabbar\asciiPanel.ico" />
     <Image Include="..\src\icons\dark\panels\tabbar\clipboardPanel.ico" />
     <Image Include="..\src\icons\dark\panels\tabbar\docList.ico" />
@@ -631,7 +631,7 @@
     <Image Include="..\src\icons\moreOnTooltip.ico" />
     <Image Include="..\src\icons\npp.ico" />
     <Image Include="..\src\icons\standard\about\chameleon.ico" />
-    <Image Include="..\src\icons\standard\about\logo_taiwan-grey.ico" />
+    <Image Include="..\src\icons\standard\about\taiwanofchina.ico" />
     <Image Include="..\src\icons\standard\panels\tabbar\asciiPanel.ico" />
     <Image Include="..\src\icons\standard\panels\tabbar\clipboardPanel.ico" />
     <Image Include="..\src\icons\standard\panels\tabbar\docList.ico" />

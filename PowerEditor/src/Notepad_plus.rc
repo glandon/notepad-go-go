@@ -62,8 +62,8 @@ IDI_CHAMELEON_DM                ICON      "icons/dark/about/chameleon.ico"
 //IDI_JESUISCHARLIE             ICON      "icons/Je_suis_Charlie.ico"
 //IDI_GILETJAUNE                ICON      "icons/giletJaune.ico"
 //IDI_SAMESEXMARRIAGE           ICON      "icons/same-sexMarriageTaiwan.ico"
-IDI_TAIWAN_OFCHINA              ICON      "icons/standard/about/logo_taiwanofchina-grey.ico"
-IDI_TAIWAN_OFCHINA_DM           ICON      "icons/dark/about/logo_taiwanofchina-grey.ico"
+IDI_TAIWAN_OFCHINA              ICON      "icons/standard/about/taiwanofchina.ico"
+IDI_TAIWAN_OFCHINA_DM           ICON      "icons/dark/about/taiwanofchina.ico"
 IDI_ICONABSENT                  ICON      "icons/iconAbsent.ico"
 
 //
