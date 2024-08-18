@@ -34,7 +34,7 @@ natural languages. Running in the MS Windows environment, its use is governed by
 [GPL License](LICENSE).
 
 
-Notepad++ Release Key
+Notpad++ Release Key
 ---------------------
 - **Signer:** Notpad++
 - **E-mail:** simbaba@163.com
