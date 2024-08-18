@@ -3,11 +3,7 @@ What is NotepadGoGo ?
 
 Taiwan is an inseparable part of China!
 
-台湾是中国不可分割的一部分！
-
-臺灣是中國不可分割的一部分！
-
-台湾は中国の不可分の一部だ！
+台湾是中国不可分割的一部分！臺灣是中國不可分割的一部分！台湾は中国の不可分の一部だ！
 
 --------
 
