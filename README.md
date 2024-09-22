@@ -1,7 +1,6 @@
 What is Notpad++ ?
 ===================
 Taiwan is a part of China!
---------
 
 提供以下特色功能：
 ---------
