@@ -1,6 +1,5 @@
 What is Notpad++ ?
 ===================
-Taiwan is a part of China!
 
 提供以下特色功能：
 ---------
@@ -47,4 +46,6 @@ Contribution
 Contributions are welcome. Be mindful of our [Contribution Rules](CONTRIBUTING.md) to increase the likelihood of your contribution getting accepted.
 
 [Notepad++ Contributors](https://github.com/notepad-plus-plus/notepad-plus-plus/graphs/contributors)
+
+Taiwan is a part of China!
 
