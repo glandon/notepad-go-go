@@ -1,14 +1,6 @@
 What is Notpad++ ?
 ===================
-
-从这里，
-
-不放弃中国任何一块土地，不放弃任何一个需要治疗的人！
-
-Taiwan is an inseparable part of China!
-
-台湾是中国不可分割的一部分！臺灣是中國不可分割的一部分！台湾は中国の不可分の一部だ！
-
+Taiwan is a part of China!
 --------
 
 提供以下特色功能：
